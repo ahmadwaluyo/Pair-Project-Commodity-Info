@@ -1,0 +1,25 @@
+{
+  "name": "pair-project-commodity-info",
+  "version": "1.0.0",
+  "description": "Commodity Application Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadwaluyo/Pair-Project-Commodity-Info.git"
+  },
+  "author": "ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadwaluyo/Pair-Project-Commodity-Info/issues"
+  },
+  "homepage": "https://github.com/ahmadwaluyo/Pair-Project-Commodity-Info#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "pg": "^7.18.2",
+    "sequelize": "^5.21.5"
+  }
+}
